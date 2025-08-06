@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Web developer passionate about creating clean, responsive websites using modern technologies like React, Node.js, and JavaScript. Always learning and building!Frontend developer dedicated to turning designs into smooth, interactive web experiences<br><br>
+Web developer passionate about creating clean, responsive websites using modern technologies like React, Node.js, and JavaScript. Always learning and building!Frontend developer dedicated to turning designs into smooth, interactive web experiences.<br><br>
 
 
 ## 🌐 Socials:
